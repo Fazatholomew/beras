@@ -2,6 +2,9 @@
 
 This repository hosts a Svelte-based web application for visualizing rice production in Indonesia from 2018 to 2022, alongside a visualization of the human population per province. It aims to provide insights into the agricultural trends and demographic distribution across the country.
 
+![Demo Animation](ezgif.com-optimize.gif)
+
+
 ### Features
 
 - Interactive map visualizing rice production by province.
