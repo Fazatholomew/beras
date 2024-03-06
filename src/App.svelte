@@ -100,7 +100,7 @@
       </div>
       <div class="ml-3">
         <a
-          href="https://github.com/your-repo"
+          href="https://github.com/Fazatholomew"
           target="_blank"
           class="flex items-center"
         >
